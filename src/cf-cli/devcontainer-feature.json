@@ -1,0 +1,10 @@
+{
+    "name": "CloudFoundry CLI v8",
+    "id": "cf-cli",
+    "version": "0.0.1",
+    "description": "Installs the CloudFoundry CLI",
+    "options": { },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}

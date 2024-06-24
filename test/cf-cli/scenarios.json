@@ -8,26 +8,14 @@
                 "upgradePackages": false,
                 "username": "octocat"
             },
-            "color": {
-                "favorite": "green"
-            }
+            "cf-cli": { }
         },
         "remoteUser": "octocat"
     },
-    "gold": {
+    "cf-version": {
         "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
         "features": {
-            "color": {
-                "favorite": "gold"
-            }
-        }
-    },
-    "green": {
-        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-        "features": {
-            "color": {
-                "favorite": "green"
-            }
+            "cf-cli": { }
         }
     }
 }
